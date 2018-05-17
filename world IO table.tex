@@ -1,0 +1,57 @@
+\documentclass{scrartcl}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}		%for scalebox
+
+%Antràs, P. \& Chor, D. (2017). ``On the Measurement of Upstreamness and Downstreamness in Global Value Chains.'' Working Paper. Retrieved from \url{https://scholar.harvard.edu/antras/publications/measurement-upstreamness-and-downstreamness-global-valuechains} -- fig. 1
+
+\begin{document}
+	
+	\begin{figure}
+	\hspace{-2.5cm}
+	\scalebox{0.7}{
+		\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+			\hline
+			\multicolumn{2}{|c|}{} && \multicolumn{7}{|c|}{} & \multicolumn{3}{|c|}{} & \\[-8pt]
+			\multicolumn{2}{|c|}{} && \multicolumn{7}{|c|}{\textbf{Input use \& value added}} & \multicolumn{3}{|c|}{\textbf{Final use}} & \textbf{Total use} \\[1pt]
+			\cline{3-14}
+			\multicolumn{2}{|c|}{} && \multicolumn{3}{|c|}{} && \multicolumn{3}{|c|}{} &&&& \\[-8pt]
+			\multicolumn{2}{|c|}{} &  &  \multicolumn{3}{|c|}{Country 1}  & $\cdots$ &  \multicolumn{3}{|c|}{Country $J$}  & Country 1 & $\cdots$ & Country $J$ &  \\[1pt]
+			\hline
+			\multicolumn{2}{|c|}{} &&&&&&&&&&&& \\[-8pt]
+			\multicolumn{2}{|c|}{} &  & Industry 1 & $\cdots$ & Industry $S$ & $\cdots$ & Industry 1 & $\cdots$ & Industry $S$ &  &  &  &  \\[1pt]
+			\hline
+			&&&&&&&&&&&&& \\[-8pt]
+			&& Industry 1 & $Z_{11}^{11}$ & $\cdots$ & $Z_{11}^{1S}$ & $\cdots$ & $Z_{1J}^{11}$ & $\cdots$ & $Z_{1J}^{1S}$ & $F^1_{11}$ & $\cdots$ & $F^1_{1J}$ & $Y_1^1$ \\[1pt]
+			\cline{3-14}
+			&&&&&&&&&&&&& \\[-8pt]
+			\textbf{Intermediate} & Country 1 & $\cdots$ & $\cdots$ & $Z_{11}^{rs}$ & $\cdots$ & $\cdots$ & $\cdots$ & $Z_{1J}^{rs}$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ \\[1pt]
+			\cline{3-14} 
+			&&&&&&&&&&&&& \\[-8pt]
+			&& Industry $S$ & $Z_{11}^{S1}$ & $\cdots$ & $Z_{11}^{SS}$ & $\cdots$ & $Z_{1J}^{S1}$ & $\cdots$ & $Z_{1J}^{SS}$ & $F^S_{11}$ & $\cdots$ & $F^S_{1J}$ & $Y_1^S$ \\[1pt]
+			\cline{2-14} 
+			&&&&&&&&&&&&& \\[-8pt]
+			\textbf{inputs} & $\cdots$ &  & $\cdots$ & $\cdots$ & $\cdots$ & $Z_{ij}^{rs}$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ & $\;F_{ij}^r\;$ & $\cdots$ & $Y_i^r$ \\[1pt]
+			\cline{2-14}
+			&&&&&&&&&&&&& \\[-8pt]
+			&& Industry 1 & $Z_{J1}^{11}$ & $\cdots$ & $Z_{J1}^{1S}$ & $\cdots$ & $Z_{JJ}^{11}$ & $\cdots$ & $Z_{JJ}^{1S}$ & $F^1_{J1}$ & $\cdots$ & $F^1_{JJ}$ & $Y_J^1$ \\[1pt]
+			\cline{3-14}
+			&&&&&&&&&&&&& \\[-8pt]
+			\textbf{supplied} & Country $J$ & $\cdots$ & $\cdots$ & $\;Z_{J1}^{rs}\;$ & $\cdots$ & $\cdots$ & $\cdots$ & $\;Z_{JJ}^{rs}\;$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ \\[1pt]
+			\cline{3-14} 
+			&&&&&&&&&&&&& \\[-8pt]
+			&& Industry $S$ & $Z_{J1}^{S1}$ & $\cdots$ & $Z_{J1}^{SS}$ & $\cdots$ & $Z_{JJ}^{S1}$ & $\cdots$ & $Z_{JJ}^{SS}$ & $F^S_{J1}$ & $\cdots$ & $F^S_{JJ}$ & $Y_J^S$ \\[1pt]
+			\hline 
+			\multicolumn{3}{|c|}{} &&&&&&&& \multicolumn{4}{|c}{} \\[-8pt]
+			\multicolumn{3}{|c|}{\textbf{Value added}} & $VA_1^1$ & $\cdots$ & $VA_1^S$ & $VA_j^s$ & $VA_J^1$ & $\cdots$ & $VA_J^S$ & \multicolumn{4}{|c}{} \\[1pt]
+			\cline{1-10} 
+			\multicolumn{3}{|c|}{} &&&&&&&& \multicolumn{4}{|c}{} \\[-8pt]
+			\multicolumn{3}{|c|}{\textbf{Gross output}} & $Y_1^1$ & $\cdots$ & $Y_1^S$ & $Y_j^s$ & $Y_J^1$ & $\cdots$ & $Y_J^S$ & \multicolumn{4}{|c}{} \\[1pt]
+			\cline{1-10}
+		\end{tabular} 
+	}	%for scalebox
+	\caption{The structure of a world input-output table (Antr\`{a}s \& Chor, 2017: 6)}
+	\end{figure}
+	
+\end{document}
