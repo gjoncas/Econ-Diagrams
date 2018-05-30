@@ -20,7 +20,7 @@ Economics diagrams I’ve made using Ti𝑘Z.
 <b>Fennell - “Why Functional Form Matters: Revealing the Structure in Structural Models in Econometrics” (<a href="https://www.journals.uchicago.edu/doi/10.1086/525642">2007</a>), fig. 1</b>
 <br>2018.03.01: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Parameter_identification_problem">identification problem</a>]
 
-<b>Gorton & Metrick - “Regulating the Shadow Banking System” (<a href="https://www.brookings.edu/wp-content/uploads/2010/09/2010b_bpea_gorton.pdf">2010</a>), fig. 1–2</b>
+<b>Gorton & Metrick - “Regulating the Shadow Banking System” (<a href="https://www.brookings.edu/wp-content/uploads/2010/09/2010b_bpea_gorton.pdf">2010</a>), fig. 1,2,5</b>
 <br>2018.05.30: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Shadow_banking_system">shadow banking</a>]
 
 <b>Krenker, Bešter, Kos - “Introduction to Artificial Neural Networks” (2011), fig. 3</b>
