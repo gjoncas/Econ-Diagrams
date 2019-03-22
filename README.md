@@ -41,3 +41,6 @@ Economics diagrams I’ve made using Ti𝑘Z.
 
 <b>Zhao - “The Equivalence between Four Economic Theorems and Brouwer’s Fixed Point Theorem” (<a href="https://www.researchgate.net/publication/228432065_The_equivalence_between_four_economic_theorems_and_Brouwer%27s_fixed_point_theorem">2002</a>), fig. 2</b>
 <br>2018.02.02: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model">equilibrium existence</a>]
+
+<b>Zou & Lü - The Research of County Urbanization and County Economy Development (<a href="https://ieeexplore.ieee.org/document/6995057/">2014</a>), fig. 4</b>
+<br>2019.03.23: Finished. &nbsp;[<a href="http://www.oxfordreference.com/view/10.1093/oi/authority.20110803114851502">urbanization curve</a>]
