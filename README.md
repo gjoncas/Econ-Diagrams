@@ -2,6 +2,8 @@
 
 Economics diagrams I’ve made using Ti𝑘Z. 
 
+&nbsp;
+
 ![world input-output table](/pics/world-io.png)
 <br><b>Antràs & Chor - On the Measurement of Upstreamness and Downstreamness in Global Value Chains (<a href="https://scholar.harvard.edu/antras/publications/measurement-upstreamness-and-downstreamness-global-valuechains">2017</a>)</b>
 <br>2018.05.17: Finished &nbsp;[<a href="https://en.wikipedia.org/wiki/Global_value_chain">world input-output table</a>]
