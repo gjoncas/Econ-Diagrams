@@ -16,7 +16,7 @@ Economics diagrams I’ve made using Ti𝑘Z.
 
 &nbsp;
 
-![types of equilibrium](/pics/equilibrium.png)
+![types of equilibrium](/pics/equilibria.png)
 <br><b>Chiang & Wainwright - <i>Fundamental Methods of Mathematical Economics</i> (4th Ed.), p. 619, fig. 19.3</b>
 <br>2018.02.02: Finished. &nbsp;[types of equilibria]
 
