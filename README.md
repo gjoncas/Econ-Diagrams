@@ -22,6 +22,12 @@ Economics diagrams I’ve made using Ti𝑘Z.
 
 &nbsp;
 
+![spectral analysis](/pics/spectral-analysis.png)
+<br><b>Cooper - “The Use of Spectral Analytic Techniques in Economics” (1972), p. 5, fig. 1</b>
+<br>2019.10.26: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Spectral_density_estimation">spectral analysis</a>]
+
+&nbsp;
+
 ![lewis turning point](/pics/lewis.png)
 <br><b>Das & N’Diaye - “Chronicle of a Decline Foretold: Has China Reached the Lewis Turning Point?” (<a href="http://www.imf.org/external/pubs/ft/wp/2013/wp1326.pdf">2013</a>), fig. 1a</b>
 <br>2018.03.26: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Dual-sector_model">Lewis dual-sector model</a>]
