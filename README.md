@@ -1,6 +1,6 @@
 # Economics Diagrams
 
-Economics diagrams I’ve made using Ti𝑘Z. 
+Economics diagrams I’ve made using Ti𝑘Z. See also: <a href="https://github.com/gjoncas/Diagrammatic">philosophy</a>, <a href="https://github.com/gjoncas/Lacan-Mathemes">psychoanalysis</a>, <a href="https://github.com/gjoncas/CS-Diagrams">computer science</a>, <a href="https://github.com/gjoncas/Artsy-Diagrams">etc.</a>
 
 &nbsp;
 
@@ -49,19 +49,6 @@ Economics diagrams I’ve made using Ti𝑘Z.
 ![shadow banking](/pics/shadow.png)
 <br><b>Gorton & Metrick - “Regulating the Shadow Banking System” (<a href="https://www.brookings.edu/wp-content/uploads/2010/09/2010b_bpea_gorton.pdf">2010</a>), fig. 1, 2, 5</b>
 <br>2018.05.30: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Shadow_banking_system">shadow banking</a>]
-
-&nbsp;
-
-![perceptron](/pics/perceptron.png)
-<br><b>Krenker, Bešter, Kos - “Introduction to Artificial Neural Networks” (2011), fig. 3</b>
-<br><b>Mohssen, Khan, Bashier - “Neural Networks” (2016), fig. 6.2</b>
-<br>2018.04.03: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Perceptron">perceptrons</a>]
-
-&nbsp;
-
-![neural net](/pics/neural.png)
-<br><b>Kuan - “Artificial neural networks” (<i>The New Palgrave</i>, <a href="https://link.springer.com/referenceworkentry/10.1057/978-1-349-95121-5_2714-1">2nd Ed.</a>), fig. 1 & 3</b>
-<br>2018.04.02: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Artificial_neural_network">neural nets</a>]
 
 &nbsp;
 
